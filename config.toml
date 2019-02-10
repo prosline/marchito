@@ -2,7 +2,7 @@ baseURL = "https://www.marchito.net"
 languageCode = "en-us"
 title = "Marcio DaSilva - Porfolio"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Marcio M. DaSilva"

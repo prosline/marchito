@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Marcio DaSilva - Porfolio</title>
+    <link>https://www.marchito.net/service/</link>
+    <description>Recent content in Services on Marcio DaSilva - Porfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.marchito.net/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Application development</title>
+      <link>https://www.marchito.net/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marchito.net/service/service3/</guid>
+      <description>&lt;p&gt;The software development life cycle is a roadmap for working on a digital solution. It is a blueprint designed for a team to create, maintain, and fix digital products.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Be the Problem Solver</title>
+      <link>https://www.marchito.net/service/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marchito.net/service/service2/</guid>
+      <description>&lt;p&gt;When I’m working on a problem, I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Custom website design</title>
+      <link>https://www.marchito.net/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marchito.net/service/service1/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re tired of wasting time and money with ordinary web design firms, I will be happy to help your organzition to build and integration the site with backend systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SEO &amp; SEM services</title>
+      <link>https://www.marchito.net/service/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.marchito.net/service/service4/</guid>
+      <description>&lt;p&gt;The difference between SEO and SEM is simply that Search Engine Optimization is part of Search engine marketing. Both processes aim in increasing visibility in search engines.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
