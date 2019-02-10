@@ -1,0 +1,75 @@
+[
+    {
+        "id": 0,
+        "name": "Family Trip - Yosemite",
+        "image": "images/daniel_yosemite.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Yosemite Trip",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Half Dome Hiking - One less activity on my bucklist",
+        "image": "images/yosemite.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Yosemite Trip",
+                "url": "#"
+            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Father and Son bonding while hiking half dome - Daniel",
+        "image": "images/daniel_yosemite2.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Yosemite Trip",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sunrise to never forget - Yosemity",
+        "image": "images/yosemite3.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Yosemite Trip",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Be part of my kids lives",
+        "image": "images/yosemite4.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Yosemite Trip",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Favor place for Paddle Board - Lake Tahoe",
+        "image": "images/wallpaper.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Tahoe Vacation",
+                "url": "#"
+            }
+        ]
+    }
+]

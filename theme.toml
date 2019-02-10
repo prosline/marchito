@@ -1,0 +1,18 @@
+name = "Hugo Initio"
+license = "MIT"
+licenselink = "https://github.com/miguelsimoni/hugo-initio/blob/master/LICENSE.md"
+description = ""
+homepage = "https://miguelsimoni.github.io/hugo-initio-site/"
+tags = ["blog","responsive","personal","google analytics","portfolio","disqus","bootstrap","font awesome","projects","creative","landing page","product","white","share this"]
+features = ["blog","responsive","personal","google analytics","portfolio","disqus","bootstrap","font awesome","projects","creative","landing page","product","white","share this"]
+min_version = "0.1"
+
+[author]
+  name = "Marcio DaSilva"
+  homepage = "https://www.marchito.net/"
+
+[original]
+  name = "Marchito"
+  author = "Marcio DaSilva"
+  homepage = "https://www.marchito.net/"
+  repo = "https://github.com/prosline?tab=repositories"
