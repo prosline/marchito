@@ -1,4 +1,4 @@
-baseURL = "https://www.marchito.net"
+baseURL = "/"
 languageCode = "en-us"
 title = "Marcio DaSilva - Porfolio"
 theme = "hugo-initio"

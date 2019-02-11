@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcio DaSilva - Porfolio</title>
-    <link>https://www.marchito.net/</link>
+    <link>/</link>
     <description>Recent content on Marcio DaSilva - Porfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Feb 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.marchito.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.marchito.net/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/about/</guid>
+      <guid>/about/</guid>
       <description>Accomplished, tactical and innovative technology leader with more than 20 years of experience leading cross-functional initiatives and product delivery. Proven ability to work successfully with Sr. Executives through influence to align priorities, resources, and deliverables against strategic initiatives. Possesses strong technical skills, adept at providing guidance, direction, and support needed to achieve critical operation goals. Enjoy programming in Go.
 Track Record I have a successful track record with Engineering Management and Product Delivery on startups and large organizations.</description>
     </item>
     
     <item>
       <title>Concurrency in Go</title>
-      <link>https://www.marchito.net/post/vivamus-lacus-mauris/</link>
+      <link>/post/vivamus-lacus-mauris/</link>
       <pubDate>Sat, 09 Feb 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/post/vivamus-lacus-mauris/</guid>
+      <guid>/post/vivamus-lacus-mauris/</guid>
       <description>Multithreading is one of the most painful things that a programmer has to deal with. It often leads to race conditions and data corruption and all sorts of production problems. It&amp;rsquo;s should be avoided at all costs, unless absolutely necessary.
 Luckly, it is not that hard when programming in Go. Such capabitily and complexity has been deeply considerate while developing the language and introduced as a first-class feature.
   The challenge with multithreading is that we can&amp;rsquo;t predict the code execution.</description>
@@ -34,37 +34,37 @@ Luckly, it is not that hard when programming in Go. Such capabitily and complexi
     
     <item>
       <title>Application development</title>
-      <link>https://www.marchito.net/service/service3/</link>
+      <link>/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/service/service3/</guid>
+      <guid>/service/service3/</guid>
       <description>&lt;p&gt;The software development life cycle is a roadmap for working on a digital solution. It is a blueprint designed for a team to create, maintain, and fix digital products.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Be the Problem Solver</title>
-      <link>https://www.marchito.net/service/service2/</link>
+      <link>/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/service/service2/</guid>
+      <guid>/service/service2/</guid>
       <description>&lt;p&gt;When I’m working on a problem, I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Custom website design</title>
-      <link>https://www.marchito.net/service/service1/</link>
+      <link>/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/service/service1/</guid>
+      <guid>/service/service1/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re tired of wasting time and money with ordinary web design firms, I will be happy to help your organzition to build and integration the site with backend systems.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>https://www.marchito.net/service/service4/</link>
+      <link>/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/service/service4/</guid>
+      <guid>/service/service4/</guid>
       <description>&lt;p&gt;The difference between SEO and SEM is simply that Search Engine Optimization is part of Search engine marketing. Both processes aim in increasing visibility in search engines.&lt;/p&gt;</description>
     </item>
     

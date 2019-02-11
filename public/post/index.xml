@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Marcio DaSilva - Porfolio</title>
-    <link>https://www.marchito.net/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Marcio DaSilva - Porfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Feb 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.marchito.net/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Concurrency in Go</title>
-      <link>https://www.marchito.net/post/vivamus-lacus-mauris/</link>
+      <link>/post/vivamus-lacus-mauris/</link>
       <pubDate>Sat, 09 Feb 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://www.marchito.net/post/vivamus-lacus-mauris/</guid>
+      <guid>/post/vivamus-lacus-mauris/</guid>
       <description>Multithreading is one of the most painful things that a programmer has to deal with. It often leads to race conditions and data corruption and all sorts of production problems. It&amp;rsquo;s should be avoided at all costs, unless absolutely necessary.
 Luckly, it is not that hard when programming in Go. Such capabitily and complexity has been deeply considerate while developing the language and introduced as a first-class feature.
   The challenge with multithreading is that we can&amp;rsquo;t predict the code execution.</description>
