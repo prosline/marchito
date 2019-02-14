@@ -6,7 +6,7 @@ publishDir = "public"
 
 [params]
     name = "Marcio M. DaSilva"
-    description = "I am pessioned about improving people lives through technolgy"
+    description = "I am pessioned about improving lives through technolgy"
     email = "marchito@gmail.com"
     phone = ""
     address = ""
